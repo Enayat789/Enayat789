@@ -1,8 +1,8 @@
-<h2 align="left">Hello 👋! My name is Enayatullah, and I'm currently pursuing a Diploma in Computer Science and Engineering.  As part of my academic pursuits, I am actively engaged in the study of frontend development,  particularly focusing on building single-page applications using the powerful JavaScript library, React.js.</h2>
+<h2 align="left">Hello 👋! I'm Enayatullah, and I'm currently pursuing a Diploma in Computer Science and Engineering.  As part of my academic pursuits, I am actively engaged in the study of frontend development,  particularly focusing on building single-page applications using the powerful JavaScript library, React.js.</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=enayat789&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=enayat789&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enayat789&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
