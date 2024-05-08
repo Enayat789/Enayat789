@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'm Enayatullah, and I'm currently pursuing a Diploma in Computer Science and Engineering.  As part of my academic pursuits, I am actively engaged in the study of frontend development,  particularly focusing on building single-page applications using the powerful JavaScript library, React.js.</h2>
+<h2 align="left">Hello 👋!  I'm Enayatullah, and I'm currently pursuing a Diploma in Computer Science and Engineering.  As part of my academic pursuits, I am actively engaged in the study of frontend development,  particularly focusing on building single-page applications using the powerful JavaScript library, React.js.</h2>
 
 ###
 
