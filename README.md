@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello 👋! I'm Enayatullah, and I'm currently pursuing a Diploma in Computer Science and Engineering. As part of my academic pursuits, I am actively engaged in the study of frontend development, particularly focusing on building single-page applications using the powerful JavaScript library, React.js.<br>
-
+I’m Enayatullah, a passionate Computer Science and Engineering (B.Tech) student with a strong interest in frontend development. I specialize in building modern, responsive, and user-friendly single-page applications (SPAs) using React.js, and I am currently expanding my expertise in Next.js to strengthen my skills in full-stack development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-enayatullah-438328248/) 
